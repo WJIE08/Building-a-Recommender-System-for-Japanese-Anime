@@ -6,11 +6,12 @@ This github repo contains the code while data in the data folder can be download
 
 1. Part 0a - EDA and Topic Modelling for Synopsis Data used in Model 2b
 2. Part 0b - Scope of Analysis
-3. Part I - Model 1 Content Based Filtering with Synopsis Similarity
-4. Part II - Model 2a Content Based Filtering with Image Similarity
-5. Part II - Model 2b Content Based Filtering with Image Similarity - Transfer Learning and Classification
-6. Part III - Model 3 SVD User Interaction
-7. Part IV - Model 4 Autoencoder User Interaction
+3. Part 0c - Model 0 Baseline Random Selection
+4. Part I - Model 1 Content Based Filtering with Synopsis Similarity
+5. Part II - Model 2a Content Based Filtering with Image Similarity
+6. Part II - Model 2b Content Based Filtering with Image Similarity - Transfer Learning and Classification
+7. Part III - Model 3 SVD User Interaction
+8. Part IV - Model 4 Autoencoder User Interaction
 
 ## B. Data files in the data folder can be downloaded via the following link: 
 https://www.dropbox.com/sh/tiyttqsdnyr7tjj/AADWO0VCKX5Y8T6pOTMToSwUa?dl=0
