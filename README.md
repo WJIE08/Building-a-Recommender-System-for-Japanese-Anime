@@ -13,7 +13,7 @@ This github repo contains the code while data in the data folder can be download
 7. Part IV - Model 4 Autoencoder User Interaction
 
 ## B. Data files in the data folder can be downloaded via the following link: 
-https://www.dropbox.com/sh/tiyttqsdnyr7tjj/AADWO0VCKX5Y8T6pOTMToSwUa?dl=0 
+https://www.dropbox.com/home/Data%20Files%20for%20BT5153%20Group%20Project%20-%20Team%20Anime-niacs
 
 ## C. Data file desciption
 1. 'dataset_full.csv' contains the data scraped from myanimelist website and is used in 'Part 0a - EDA and Topic Modelling for Synopsis Data used in Model 2b'
