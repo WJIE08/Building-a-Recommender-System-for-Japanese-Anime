@@ -3,7 +3,11 @@
 This github repo contains the code while data in the data folder can be downloaded separately from a dropbox link
 
 ## A. Codes in the code folder should be run in the following sequence
+### Data extraction - Optional to run
+1. Webscraping Part I - Anime Dataset - this will create 'dataset_full.csv'
+2. Webscraping Part II - Anime Images - this reads from 'dataset_EDA_Topic_14022021.csv' and will create the images found in the images folder
 
+### Data Analysis and Modelling
 1. Part 0a - EDA and Topic Modelling for Synopsis Data used in Model 2b
 2. Part 0b - Scope of Analysis
 3. Part 0c - Model 0 Baseline Random Selection
@@ -24,3 +28,4 @@ https://www.dropbox.com/sh/tiyttqsdnyr7tjj/AADWO0VCKX5Y8T6pOTMToSwUa?dl=0
 3. 'reviews.csv' contains the ratings given by users for animes and is obtained from kaggle: https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews. It is used in 'Part 0b - Scope of Analysis'
  
 4. images folder in images.zip contains the images scraped from myanimelist website and is used in 'Part 0b - Scope of Analysis'
+
