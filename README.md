@@ -3,9 +3,6 @@
 This github repo contains the code while data in the data folder can be downloaded separately from a dropbox link
 
 ## A. Codes in the code folder should be run in the following sequence
-### Data extraction - Optional to run
-1. Webscraping Part I - Anime Dataset - this will create 'dataset_full.csv'
-2. Webscraping Part II - Anime Images - this reads from 'dataset_EDA_Topic_14022021.csv' and will create the images found in the images folder
 
 ### Data Analysis and Modelling
 1. Part 0a - EDA and Topic Modelling for Synopsis Data used in Model 2b
@@ -16,6 +13,10 @@ This github repo contains the code while data in the data folder can be download
 6. Part II - Model 2b Content Based Filtering with Image Similarity - Transfer Learning and Classification
 7. Part III - Model 3 SVD User Interaction
 8. Part IV - Model 4 Autoencoder User Interaction
+
+### Data extraction - Optional to run
+1. Webscraping Part I - Anime Dataset - this will create 'dataset_full.csv'
+2. Webscraping Part II - Anime Images - this reads from 'dataset_EDA_Topic_14022021.csv' and will create the images found in the images folder
 
 ## B. Data files in the data folder can be downloaded via the following link: 
 https://www.dropbox.com/sh/tiyttqsdnyr7tjj/AADWO0VCKX5Y8T6pOTMToSwUa?dl=0
