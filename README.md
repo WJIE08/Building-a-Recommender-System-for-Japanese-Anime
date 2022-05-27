@@ -1,4 +1,4 @@
-# BT5153 Team Anime-niacs - Recommender_Algorithm_Japanese_Anime
+# Building a recommender system for Japanese Anime: Group Project for BT5153
 
 This github repo contains the code while data in the data folder can be downloaded separately from a dropbox link
 
